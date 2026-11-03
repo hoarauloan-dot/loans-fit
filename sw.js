@@ -1,7 +1,7 @@
 // Loan's Fit : cache d'interface uniquement, aucune donnée de suivi dans Cache Storage.
 const BASE=new URL('./',self.location.href).href;
 const PREFIX='loans-fit:'+BASE+':';
-const CACHE=PREFIX+'v3.0-photo-journal';
+const CACHE=PREFIX+'v4.0-compact-journals';
 const ASSETS=['index.html','style.css','app.js','manifest.json','icon-180.png','icon-192.png','icon-512.png','logo.png'].map(x=>new URL(x,BASE).href);
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);

@@ -16,3 +16,12 @@ Décompresser puis envoyer **tous les fichiers** directement à la racine du dé
 
 ## Vérification
 Contrôler sur iPhone les photos, les retours de saisie, les champs de pesée, l’export et l’import, l’activation de la nouvelle version et le hors-ligne. La vérification de syntaxe hors iPhone ne remplace pas ce test.
+
+
+## V4 — Changements limités
+- Journaux repliables repas, compléments, pesées et séances : 3 dernières entrées, reste sous Voir les autres.
+- Galerie photo séparée avec aperçu de 2 photos dans Progression.
+- Modification des séances enregistrées (notes, charges, répétitions, ajout/retrait de séries).
+- Suppression d’exercices du programme, sans effacer l’historique.
+- Retour Accueil en touchant le logo ou le nom, titres avec émojis, petites corrections de mise en page.
+- Ne pas supprimer l’application installée : utiliser Réglages > Rechercher les mises à jour. Sauvegarder d’abord.
